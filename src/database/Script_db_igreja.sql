@@ -1,7 +1,7 @@
 create database igreja;
 create schema if not exists igreja ;
 
-use igreja ;
+use igreja;
 
 -- -----------------------------------------------------
 -- table igreja.usuario
