@@ -1,18 +1,18 @@
 📌 Sistema de Gestão de Ofertas e Dízimos 💰🙏
 Este é um sistema desenvolvido em Java com MySQL para gerenciar ofertas, doações e dízimos dos membros de uma igreja. A aplicação permite que um usuário autenticado registre e acompanhe as contribuições financeiras, garantindo segurança e organização.
 
-✨ Funcionalidades
-✅ Autenticação de usuários para acesso seguro 🔑
-✅ Registro e gerenciamento de ofertas, doações e dízimos 📊
-✅ Consulta de histórico de contribuições 💾
-✅ Relatórios para análise financeira da igreja 📑
-✅ Integração com banco de dados MySQL para armazenamento persistente🗄️
+✨ Funcionalidades <br/>
+✅ Autenticação de usuários para acesso seguro 🔑<br/>
+✅ Registro e gerenciamento de ofertas, doações e dízimos 📊<br/>
+✅ Consulta de histórico de contribuições 💾<br/>
+✅ Relatórios para análise financeira da igreja 📑<br/>
+✅ Integração com banco de dados MySQL para armazenamento persistente🗄️<br/>
 
-🛠️ Tecnologias Utilizadas
-Java (Back-end)
-MySQL (Database)
-JDBC
-Swing / JavaFX 
+🛠️ Tecnologias Utilizadas<br/>
+Java (Back-end)<br/>
+MySQL (Database)<br/>
+JDBC<br/>
+Swing / JavaFX<br/>
 
 🚀 Como Executar:
 
