@@ -17,7 +17,7 @@ Swing / JavaFX<br/>
 🚀 Como Executar:
 
 1- Clone este repositório: 
-"https://github.com/seu-usuario/seu-repositorio.git"
+"https://github.com/Becca002/Gestao-de-Ofertas-e-Dizimos.git"
 
 2- Configure o banco de dados MySQL e atualize as credenciais no código.
 
