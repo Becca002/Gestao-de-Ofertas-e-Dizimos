@@ -6,12 +6,12 @@ Este é um sistema desenvolvido em Java com MySQL para gerenciar ofertas, doaç�
 ✅ Registro e gerenciamento de ofertas, doações e dízimos 📊
 ✅ Consulta de histórico de contribuições 💾
 ✅ Relatórios para análise financeira da igreja 📑
-✅ Integração com banco de dados MySQL para armazenamento persistente 🗄️
+✅ Integração com banco de dados MySQL para armazenamento persistente🗄️
 
 🛠️ Tecnologias Utilizadas
 Java (Back-end)
 MySQL (Database)
-JDBC 
+JDBC
 Swing / JavaFX 
 
 🚀 Como Executar:
