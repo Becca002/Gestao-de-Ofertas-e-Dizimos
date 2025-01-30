@@ -1,4 +1,4 @@
-📌 Sistema de Gestão de Ofertas e Dízimos 💰🙏
+📌 Sistema de Gestão de Ofertas e Dízimos 💰🙏<br/>
 Este é um sistema desenvolvido em Java com MySQL para gerenciar ofertas, doações e dízimos dos membros de uma igreja. A aplicação permite que um usuário autenticado registre e acompanhe as contribuições financeiras, garantindo segurança e organização.
 
 ✨ Funcionalidades <br/>
