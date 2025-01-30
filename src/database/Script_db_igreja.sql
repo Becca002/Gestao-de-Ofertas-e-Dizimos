@@ -20,7 +20,7 @@ create table if not exists igreja.usuario (
 engine = innodb;
 
 -- -----------------------------------------------------
-table igreja.log_autenticacao
+-- table igreja.log_autenticacao
 -- -----------------------------------------------------
 
 create table if not exists igreja.log_autenticacao (
@@ -52,7 +52,7 @@ create table if not exists igreja.log_autenticacao (
 engine = innodb;
 
 -- -----------------------------------------------------
-table igreja.membro
+-- table igreja.membro
 -- -----------------------------------------------------
 
 create table if not exists igreja.membro (
@@ -86,7 +86,7 @@ create table if not exists igreja.membro (
 engine = innodb;
 
 - ------------------------------------------------------
-table igreja.oferta
+-- table igreja.oferta
 -- -----------------------------------------------------
 
 create table if not exists igreja.oferta (
