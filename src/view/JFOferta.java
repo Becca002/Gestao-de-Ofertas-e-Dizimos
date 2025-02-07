@@ -67,7 +67,6 @@ public class JFOferta extends javax.swing.JFrame {
             });
         }
     }
-
     
     private void limpeFormulario() {
         this.linha = -1;
